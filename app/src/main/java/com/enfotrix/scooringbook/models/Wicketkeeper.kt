@@ -1,0 +1,43 @@
+package com.enfotrix.scooringbook.models
+
+data class Wicketkeeper(
+    val PID: Int,
+    val name: String,
+    val format: String,
+    val dateJoined: String,
+    val stumpings: Int,
+    val catches: Int,
+    val runout: Int,
+    val runs: Int,
+    val highest: Int,
+    val strikeRate: Double,
+    val hundreds: Int,
+    val fifties: Int,
+    val fours: Int,
+    val sixes: Int,
+    val wickets: Int,
+    val bestBowling: String,
+    val fiveWickets: Int,
+    val avg: Double,
+    val fourWicketsEconomy: Int
+                                                     //if required all string types
+//    val PID: String,
+//    val name: String,
+//    val format: String,
+//    val dateJoined: String,
+//    val stumpings: String,
+//    val catches: String,
+//    val runout: String,
+//    val runs: String,
+//    val highest: String,
+//    val strikeRate: String,
+//    val hundreds: String,
+//    val fifties: String,
+//    val fours: String,
+//    val sixes: String,
+//    val wickets: String,
+//    val bestBowling: String,
+//    val fiveWickets: String,
+//    val avg: String,
+//    val fourWicketsEconomy: String
+)

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Other resources -->
+
+    <string-array name="wickets_array">
+        <item>Wicket</item>
+        <item>Caught</item>
+        <item>Bowled</item>
+        <item>Stumped</item>
+        <item>RunOut(Striker)</item>
+        <item>RunOut(Non-Striker)</item>
+        <item>LBW</item>
+        <item>Hit-Wicket</item>
+        <item>Obstructing Field</item>
+        <item>Handling the ball</item>
+
+    </string-array>
+</resources>

@@ -1,0 +1,26 @@
+package com.enfotrix.scooringbook.models
+
+data class CurrentBatterModel(
+    val matchID: String,
+    val teamAID: String,
+    val teamBID: String,
+    val tournamentID: String,
+    val stadiumID: String,
+    val dot: String,
+    val single: String,
+    val double: String,
+    val three: String,
+    val four: String,
+    val six: String,
+    val wideBall: String,
+    val noBall: String,
+    val totalPlayerScores: String,
+    val RunRate: String,
+    val centries: String,
+    val fifties: String,
+    val partnerShips: String,
+    val currentPosition: String,
+    val strikeRate: String,
+    val ballsFaced: String,
+    val dismissalType: String,
+)
